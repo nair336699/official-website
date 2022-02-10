@@ -1,4 +1,5 @@
-Website tech stack involves React in frontend and building backend using Django. 
+# Opinco Website
+**Website tech stack involves React in frontend and building backend using Django.**
 
 
 - Our community is inclusive and open to all
